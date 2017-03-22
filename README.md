@@ -51,7 +51,7 @@ implement other features that would be required for the brief. Such as:
 
 Meta Tags:
 
-I had to add a description, keywords, and author and some og tags for title, type, description and image. 
+I had to add a description, and author and some og tags for title, type, description and image. 
 
 CSS:
 
