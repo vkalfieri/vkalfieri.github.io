@@ -1,0 +1,68 @@
+.img-responsive {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.firstname {
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 55px;
+}
+
+.lastname {
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 55px;
+    color: red;
+}
+
+.inlinestyle {
+    display: inline-block;
+}
+
+.centerednames {
+     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.panel-body {
+    font-family: 'Lora', serif;
+}
+
+.panel-heading {
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+.navbar-default {
+     background-image: linear-gradient(to bottom,#fff 0,#4ac2dd 100%);
+}
+
+.fullname {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.panel-default {
+    background-image: linear-gradient(to bottom, #fff 0, #4ac2dd 100%);
+    border-bottom-color: #4ac2dd;
+    
+}
+
+body {
+    
+    background-color: #a76eff;
+    font-family: 'Lora', serif;
+}
+
+.p_links{
+    display: inline-block;
+    
+}
+
+.centerlinks{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 15px;
+}
+
